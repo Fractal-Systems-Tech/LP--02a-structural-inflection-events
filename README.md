@@ -30,7 +30,8 @@ LP‑02a does not expose internal logic thresholds, classifiers, or core system 
 Please cite this paper as:
 
 > Bey, C. (2025). *LP‑02a: Structural Inflection Events*.  
-> Fractal Labyrinth Systems LLC. https://github.com/Fractal-Systems-Tech/TSMLA_LP-02a_Structural-Inflection-Events/blob/main/LP_02a_v2_1_Structural_Inflection_Events.md.pdf
+> Fractal Labyrinth Systems LLC.
+> [Download LP‑02a v2.1 PDF](./LP_02a_v2_1_Structural_Inflection_Events.md.pdf)
 
 ---
 
