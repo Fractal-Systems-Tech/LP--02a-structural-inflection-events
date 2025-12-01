@@ -96,6 +96,8 @@ Purpose: Guard triggers to arrest drift. Fields: guard ids, thresholds, outcomes
 **A14 – SIE‑6 Reduction Plan**  
 Purpose: Restore coherence. Fields: parameter targets, H_S drop, risk notes
 
+---
+
 ### Contact
 
 For licensing, demos, or NDA-gated materials, contact:
